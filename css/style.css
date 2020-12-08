@@ -18,10 +18,6 @@ a {
   color: var(--text-color);
 }
 
-p{
-  color: #262626;
-}
-
 .page-header {
   display: flex;
   justify-content: space-between;
